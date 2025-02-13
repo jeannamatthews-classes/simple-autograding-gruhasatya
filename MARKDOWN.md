@@ -10,3 +10,7 @@
 - Supports headings, lists, links, bold, italics, and more.
 - Commonly used for documentation, README files, and static site generation.
 
+
+## Repository Information
+- **Repository Name:** CS550
+- **Link:**  https://github.com/gruhasatya/CS550.git
